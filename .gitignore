@@ -1,0 +1,22 @@
+# Compiled output
+/target/
+
+# Rust toolchain
+/.rustup
+/Cargo.lock
+
+# Generated documentation
+/target/doc/
+
+# IDE and editor files
+/.idea/
+/.vscode/
+
+# System files
+/.DS_Store
+
+# Editor backup files
+*~
+
+# Build output (if using specific build tools)
+/build/
